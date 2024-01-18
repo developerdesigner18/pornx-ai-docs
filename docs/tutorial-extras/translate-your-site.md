@@ -13,8 +13,8 @@ Modify `docusaurus.config.js` to add support for the `fr` locale:
 ```js title="docusaurus.config.js"
 export default {
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    defaultLocale: "en",
+    locales: ["en", "fr"],
   },
 };
 ```
@@ -41,7 +41,7 @@ npm run start -- --locale fr
 
 Your localized site is accessible at [http://localhost:3000/fr/](http://localhost:3000/fr/) and the `Getting Started` page is translated.
 
-:::caution
+:::info
 
 In development, you can only use one locale at a time.
 
@@ -60,7 +60,7 @@ export default {
       items: [
         // highlight-start
         {
-          type: 'localeDropdown',
+          type: "localeDropdown",
         },
         // highlight-end
       ],

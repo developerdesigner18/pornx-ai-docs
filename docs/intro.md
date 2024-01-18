@@ -1,47 +1,28 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to Pornx.ai help center. Here we described how to use our AI generator to get better results.
 
-## Getting Started
+:::info
 
-Get started by **creating a new site**.
+For questions or support visit the **[Pornx Discord support channel](https://discord.com/invite/Gz29x92rZT)**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::
 
-### What you'll need
+:::warning
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Please note. **[Pornx.ai](https://pornx.ai)** is continuously monitored to ensure all content and user activity comply with our policies. We employ both automated tools and manual reviews to detect and address any violations or suspicious activities.
 
-## Generate a new site
+Let's keep Pornx remains a safe and unique platform for creating beautiful NSFW art!
 
-Generate a new Docusaurus site using the **classic template**.
+:::
 
-The classic template will automatically be added to your project after you run the command:
+## About Pornx.ai
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Pornx.ai is AI image generator to create high-quality adult images. Our simple and user-friendly platform allows you to choose from a variety of filters and generate images at no cost!
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+At Pornx, our mission is to improve the quality of adult content using AI technology. We are committed to providing a safe and enjoyable experience for our users.
