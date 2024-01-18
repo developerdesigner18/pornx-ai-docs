@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Styles
 
 **Styles** - is an option that allows you to change the style of the image.
