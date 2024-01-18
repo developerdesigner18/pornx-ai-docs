@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+slug: /hub
+---
+
 ![Docs](https://3612555491-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FRuxsFfgozplSLV6CRcgP%2Fuploads%2FxijO9CII3GVoPeFXyYEt%2Fbackgo.png?alt=media&token=a2448ab2-6cec-4b08-8b38-e70919e1e75b)
 
 # HUB
